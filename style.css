@@ -4,3 +4,18 @@ body {
   margin-top: 100px;
   background-color: #f4f4f4;
 }
+
+nav {
+  margin-bottom: 30px;
+}
+
+nav a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #0077cc;
+}
